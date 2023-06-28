@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <h1> Hi there, I'm Artemii </h1>
+  <h3> Here I post my work in the course of language study </h3>
+</div>
 <!--
 **Armiizh/Armiizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
